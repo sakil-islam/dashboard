@@ -1,5 +1,5 @@
 export { default as Ecommerce } from './Ecommerce';
-export { default as Kanban } from './Kanban';
+export { default as Manager } from './Manager';
 export { default as Orders } from './Orders';
 export { default as Vendor } from './Vendor';
 export { default as Editor } from './Editor';
